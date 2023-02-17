@@ -12,9 +12,9 @@ I WANT an API for my social network that uses a NoSQL database
 SO THAT my website can handle large amounts of unstructured data
 
 ### **Result**
-## **Unompleted Project**
+## **Uncompleted Project**
 
 You can find the app at [SNAPI](https://github.com/RonaldMartinez00/SNAPI)
-
+(for some reason i cant get routes to work. but server still connects to local host?)
 
 
