@@ -37,7 +37,7 @@ module.exports = {
                 : res.json(user)
         ).catch((err) => res.status(500).json(err));
     },
-    // route works but takes forever; not running right??
+    
     deleteUser(req, res) {
         User.findOneAndDelete({ _id: req.params.userId })
             .then((user) =>
